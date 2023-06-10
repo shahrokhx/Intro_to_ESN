@@ -1,6 +1,6 @@
 # Intro_to_ESN
 
-Welcome to the **Intro_to_ESN** repository! This repository contains a simple implementation of Echo State Networks (ESNs) for forecasting highly nonlinear/chaotic time series. It offers variations of ESNs, including the vanilla (regular) version, clustered ESN (CESN), and the physics-informed hybrid ESN (HESN).
+Welcome to the $\boxed{\text{Intro to ESN}}$ repository! This repository contains a simple implementation of Echo State Networks (ESNs) for forecasting highly nonlinear/chaotic time series. It offers variations of ESNs, including the vanilla (regular) version, clustered ESN (CESN), and the physics-informed hybrid ESN (HESN).
 
 The main goal of this repository is to provide a helpful resource for those interested in getting started with reservoir computing techniques and ESN-related projects. By using this code, you can quickly dive into the world of ESNs and start experimenting with them.
 
